@@ -37,6 +37,12 @@ Gather these tools before starting on your build and it will go much smoother!
 - Micro USB cable
 - Computer with the Arduino IDE loaded
 
+## Completed Example Badge
+
+Front Side | Back Side
+---------- | ---------
+![Badge Front](https://raw.githubusercontent.com/zagnut007/MakerFaire2017/master/images/front.jpg) | ![Badge Back](https://raw.githubusercontent.com/zagnut007/MakerFaire2017/master/images/back.jpg)
+
 ## Building your badge
 
 Please read and review these instructions before starting your build.
