@@ -38,16 +38,16 @@ Gather these tools before starting on your build and it will go much smoother!
 
 ## Building your badge
 
-1. Glue the two chassis layers together
+### Glue the two chassis layers together
   - Use the CA glue to glue the layers together
   - The bottom-right corner of the top layer should be offet from the edge of the base layer by 3mm from the right and 3mm from the bottom
   - The upper-left corner of the top layer should have a 1mm offset from the left and top of the base layer
   - You can choose which internal/cut pieces to glue on or leave out.
 
-2. Drill out the LED holes
+### Drill out the LED holes
   - If you intend to install the included LEDs, you will want to drill out three holes in the spaces provided just above the "VIP"
   - Be sure to use a backer board when drilling to reduce blowout
   - Use the 7/32 or 5mm drill bit to make the holes
 
-3. Install the LEDs
+### Install the LEDs
   - 
